@@ -1,0 +1,8 @@
+{
+  "name": "learning",
+  "app_id": "f20a1ee4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
