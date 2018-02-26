@@ -21,7 +21,7 @@ Pro.init('f20a1ee4', {
 })
 
 @Injectable()
-export class MyErrorHandler implements ErrorHandler {
+export class MyErrorHandler implements ErrorHandler {  
   ionicErrorHandler: IonicErrorHandler;
 
   constructor(injector: Injector) {
